@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanachod Sakthamjaroen</h1>
 <h3 align="center">A Computer Engineering at SUT and will Learning in backend dev.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
