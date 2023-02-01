@@ -6,6 +6,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -63,8 +64,9 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pet002&show_icons=true&locale=en&layout=compact" alt="pet002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pet002&show_icons=true&theme=gruvbox&text_color=f5f5ff&bg_color=57706f&locale=en" alt="pet002" /></p>
+<p alige="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pet002&show_icons=true&locale=en&layout=compact" alt="pet002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pet002&" alt="pet002" /></p>
+<p alige="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pet002&show_icons=true&theme=gruvbox&text_color=f5f5ff&bg_color=57706f&locale=en" alt="pet002" /></p>
+
+<p alige="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pet002&" alt="pet002" /></p>
