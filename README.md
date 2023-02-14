@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanachod Sakthamjaroen</h1>
-<h3 align="center">A Computer Engineering at SUT and will Learning in backend dev.</h3>
+<h3 align="center">A Student of Computer Engineering at SUT and will Learning in backend dev.</h3>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
