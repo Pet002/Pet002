@@ -47,5 +47,3 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pet002&layout=compact&theme=react&text_color=f5f5ff&bg_color=57706f" alt="pet002" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pet002&show_icons=true&theme=react&text_color=f5f5ff&bg_color=57706f&locale=en" alt="pet002" />
 </div>
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pet002&theme=react&text_color=f5f5ff&bg_color=57706f" alt="pet002" /></div>
